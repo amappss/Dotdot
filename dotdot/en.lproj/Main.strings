@@ -1,0 +1,48 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ADd-VK-q0d"; */
+"ADd-VK-q0d.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "SlH-cC-SrF"; */
+"SlH-cC-SrF.text" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "LOGIN WITH FACEBOOK"; ObjectID = "aFy-Qq-3Nd"; */
+"aFy-Qq-3Nd.normalTitle" = "LOGIN WITH FACEBOOK";
+
+/* Class = "UILabel"; text = "Heyy"; ObjectID = "dkH-Oh-MnK"; */
+"dkH-Oh-MnK.text" = "Heyy";
+
+/* Class = "UILabel"; text = "Groups"; ObjectID = "fBl-RY-4tv"; */
+"fBl-RY-4tv.text" = "Groups";
+
+/* Class = "UILabel"; text = "LOGIN WIHT EMAIL"; ObjectID = "fYk-j4-TnZ"; */
+"fYk-j4-TnZ.text" = "LOGIN WIHT EMAIL";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "hsH-RW-Iwe"; */
+"hsH-RW-Iwe.text" = "OR";
+
+/* Class = "UIButton"; normalTitle = "LOGIN WITH GOOGLE"; ObjectID = "hzK-Bh-nme"; */
+"hzK-Bh-nme.normalTitle" = "LOGIN WITH GOOGLE";
+
+/* Class = "UILabel"; text = "am@am.com"; ObjectID = "j7A-nw-2n3"; */
+"j7A-nw-2n3.text" = "am@am.com";
+
+/* Class = "UILabel"; text = "Heyy"; ObjectID = "jdl-1c-kjD"; */
+"jdl-1c-kjD.text" = "Heyy";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "jeU-SE-Oun"; */
+"jeU-SE-Oun.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "lSb-qC-BjC"; */
+"lSb-qC-BjC.normalTitle" = "SIGN IN";
+
+/* Class = "UILabel"; text = "Feed"; ObjectID = "lwX-ci-1uA"; */
+"lwX-ci-1uA.text" = "Feed";
+
+/* Class = "UITabBarItem"; title = "Groups"; ObjectID = "obG-GJ-FHJ"; */
+"obG-GJ-FHJ.title" = "Groups";
+
+/* Class = "UITabBarItem"; title = "Feed"; ObjectID = "qGO-l8-szT"; */
+"qGO-l8-szT.title" = "Feed";
+
+/* Class = "UILabel"; text = "am@am.com"; ObjectID = "t40-gg-KU9"; */
+"t40-gg-KU9.text" = "am@am.com";
